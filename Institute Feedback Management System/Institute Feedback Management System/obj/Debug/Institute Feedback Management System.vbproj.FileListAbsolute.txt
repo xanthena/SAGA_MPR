@@ -1,0 +1,15 @@
+E:\Institute Feedback Management System\Institute Feedback Management System\obj\Debug\Institute Feedback Management System.vbproj.AssemblyReference.cache
+E:\Institute Feedback Management System\Institute Feedback Management System\obj\Debug\Institute_Feedback_Management_System.frmLogin.resources
+E:\Institute Feedback Management System\Institute Feedback Management System\obj\Debug\Institute_Feedback_Management_System.frmMdiMain.resources
+E:\Institute Feedback Management System\Institute Feedback Management System\obj\Debug\Institute_Feedback_Management_System.Resources.resources
+E:\Institute Feedback Management System\Institute Feedback Management System\obj\Debug\Institute Feedback Management System.vbproj.GenerateResource.cache
+E:\Institute Feedback Management System\Institute Feedback Management System\obj\Debug\Institute Feedback Management System.vbproj.CoreCompileInputs.cache
+E:\Institute Feedback Management System\Institute Feedback Management System\bin\Debug\Institute Feedback Management System.exe.config
+E:\Institute Feedback Management System\Institute Feedback Management System\bin\Debug\Institute Feedback Management System.exe
+E:\Institute Feedback Management System\Institute Feedback Management System\bin\Debug\Institute Feedback Management System.pdb
+E:\Institute Feedback Management System\Institute Feedback Management System\bin\Debug\Institute Feedback Management System.xml
+E:\Institute Feedback Management System\Institute Feedback Management System\obj\Debug\Institute Feedback Management System.exe
+E:\Institute Feedback Management System\Institute Feedback Management System\obj\Debug\Institute Feedback Management System.xml
+E:\Institute Feedback Management System\Institute Feedback Management System\obj\Debug\Institute Feedback Management System.pdb
+E:\Institute Feedback Management System\Institute Feedback Management System\obj\Debug\Institute_Feedback_Management_System.frmCollegeDetails.resources
+E:\Institute Feedback Management System\Institute Feedback Management System\obj\Debug\Institute_Feedback_Management_System.frmReviewAdd.resources
