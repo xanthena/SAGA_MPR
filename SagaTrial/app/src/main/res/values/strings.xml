@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SagaTrial</string>
+
+    <!-- Dashboard -->
+
+    <!-- Categories -->
+    <string name="placements">Placements</string>
+    <string name="academics">Academics</string>
+    <string name="infrastructure">Infrastructure</string>
+    <string name="extracurriculars">Extra Curricular</string>
+    <string name="Location">Location</string>
+
+    <!-- Titles and Descriptions -->
+    <string name="featured_colleges">All Featured Institutes</string>
+    <string name="featured_colleges_description">All the colleges and institutes our app features all across India!</string>
+    <string name="most_viewed">Most Viewed</string>
+    <string name="categories">Categories</string>
+    <string name="view_all">View All</string>
+    <string name="search_text">Search</string>
+
+</resources>
